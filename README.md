@@ -13,7 +13,7 @@ CAKD 5기 3차 프로젝트 '달리는 차 위에 나는 드론 있다' 팀입�
 
 하늘길을 구축하기 위해 DQN(심층강화학습 알고리즘)과 Informed RRT*(최단거리 알고리즘)을 활용하였고, kepler.gl과 django를 사용하여 최종 웹 서비스로 구현했습니다.
 
-[https://www.youtube.com/watch?v=1sboJnrMk1Y&t=28s](https://www.youtube.com/watch?v=U2zhgZl9Igc&t=1s)
+https://youtu.be/1p_6nrTzrTE
 
 ### <*팀원*>
 ----
