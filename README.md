@@ -2,7 +2,7 @@
 ## 2022.05.09. ~ 2022.06.21. 까지 진행된 프로젝트 입니다.
 ### <*주제*>
 드론 신속 배송을 위한 하늘길 구축 시스템
-![image](https://user-images.githubusercontent.com/95695211/175246783-e249203e-741d-4f4f-90a1-fa111bd28633.png)
+![image](https://user-images.githubusercontent.com/96769262/176640907-27c4fe89-67da-4221-85bf-3801e53a9faf.png)
 
 ### <*유튜브*>
 CAKD 5기 3차 프로젝트 '달리는 차 위에 나는 드론 있다' 팀입니다.  
