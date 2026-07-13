@@ -23,7 +23,7 @@ https://youtu.be/1p_6nrTzrTE
 
 - 김기현(KIM GI HYUN)<br><br><br><br><br>
 
-MAIL : luckyboy3214@naver.com <br>
+MAIL : luckyboy3214@gmail.com <br>
 
 Github : https://github.com/spiner321<br>
 
